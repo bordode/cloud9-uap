@@ -1,0 +1,13 @@
+Component,Quantity,Supplier,Cost (USD),Notes
+Frame,1,Custom 3D Printed,50,STL files in CAD/
+Ion Thruster,1,Busek BIT-3,5000,Primary propulsion
+EM Field Coil,4,Custom SparkFun,1000,IMR simulation
+NVIDIA Jetson Nano,1,NVIDIA,100,AI processing
+RPLIDAR A1,1,RoboPeak,100,LIDAR sensor
+FLIR Blackfly S,1,FLIR,2000,Thermal camera
+Raspberry Pi 4,1,Raspberry Pi,75,Sensor fusion
+Arduino Mega,1,Arduino,40,Control system
+LiPo Battery 10Ah,2,HobbyKing,200,Power supply
+GPS Module,1,Adafruit,40,Navigation
+IMU MPU9250,1,SparkFun,15,Accelerometer/gyro
+Total,,,8620,
