@@ -27,6 +27,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## 📜 License
 MIT License.
 
-## 📧 Contact
+## 
 - **GitHub**: [cloud9-uap](https://github.com/bordode/cloud9-uap)
-- **Email**: dean@cloud9assembly.org
+
