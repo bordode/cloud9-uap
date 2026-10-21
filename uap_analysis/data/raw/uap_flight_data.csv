@@ -1,0 +1,4 @@
+uap_id,date,location,velocity_mach,acceleration_g,sensor_type,anomaly
+1,2004-11-14,Pacific Ocean,5.2,500,Radar/FLIR,Instant acceleration
+2,2015-01-21,East Coast USA,3.8,300,Radar,No sonic boom
+3,2019-07-15,Atlantic Ocean,4.5,450,Optical,Transmedium travel
